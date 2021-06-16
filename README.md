@@ -45,8 +45,11 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Bachelor of Technology in Electronics Engineering
+Bachelor of Technology in Electronics Engineering
+
+##### Nanyang Polytechnic, Singapore
+Diploma in Electronics Computer and Communications
 
 <!-- EDUCATION Section Ends -->
 
