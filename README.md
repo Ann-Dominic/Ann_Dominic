@@ -31,7 +31,7 @@ I am __Ann Dominic__, a seasoned data scientist with ~7 years of progressive exp
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
+##### 
 SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
