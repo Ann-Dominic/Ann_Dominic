@@ -4,9 +4,9 @@
 
 <!-- Add your details -->
 ✉️: ann.dominic@hotmail.sg 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ann-dominic/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.youtube.com/channel/UC9Jly1IEjKrjVBUAhMSPvTQ)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
