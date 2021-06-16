@@ -4,7 +4,7 @@
 
 <!-- Add your details -->
 ✉️: ann.dominic@hotmail.sg 
-&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-XXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ann-dominic/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.youtube.com/channel/UC9Jly1IEjKrjVBUAhMSPvTQ)
 <!-- CONTACT Section Ends -->
@@ -17,7 +17,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Ann Dominic__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
